@@ -1,0 +1,7 @@
+spatialmath-python
+roboticstoolbox-python
+evo
+numpy
+matplotlib
+scipy 
+pandas
